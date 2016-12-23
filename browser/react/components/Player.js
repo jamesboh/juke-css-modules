@@ -1,5 +1,7 @@
 import React from 'react';
 
+import styles from '../styles/Player.css';
+
 export default function (props) {
 
   const currentSong = props.currentSong;
